@@ -1,8 +1,6 @@
 # FUTURE_DS_03
 Marketing Funnel and Conversion Performance Analysis using Excel - Future Interns Data Science &amp; Analytics Task 3
 
-# 📊 Marketing Funnel & Conversion Analysis – Task 3
-
 ## 🎯 Objective
 Analyze marketing funnel performance to understand conversion rates and drop-off points.
 
