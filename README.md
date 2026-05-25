@@ -32,3 +32,33 @@ Analyze marketing funnel performance to understand conversion rates and drop-off
 
 ## 💡 Conclusion
 This analysis helps optimize marketing campaigns and improve conversion efficiency.
+
+# 📊 Dashboard Preview
+
+### Full Dashboard
+![Dashboard](dashboard/ds3_dashboard.png)
+
+---
+
+### Conversion Analysis
+![Conversion](dashboard/ds3_conversion.png)
+
+---
+
+### Job Analysis
+![Job](dashboard/ds3_job.png)
+
+---
+
+### Campaign Performance
+![Campaign](dashboard/ds3_campaign.png)
+
+---
+
+### Previous Outcome Analysis
+![Poutcome](dashboard/ds3_poutcome.png)
+
+---
+
+### Average Behavior Analysis
+![Average](dashboard/ds3_average.png)
